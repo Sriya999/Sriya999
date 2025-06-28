@@ -73,19 +73,6 @@ SR University, Warangal
   <img src="https://github-profile-trophy.vercel.app/?username=Sriya999&theme=tokyonight&no-frame=true&no-bg=false&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
 </div>
 
----
-
-## 💻 LeetCode Statistics
-
-<div align="center">
-  <img src="https://leetcard.jacoblin.cool/Sriya999?theme=dark&font=Noto%20Sans&ext=contest" alt="LeetCode Stats"/>
-</div>
-
-<div align="center">
-  <img src="https://leetcode-stats-api.herokuapp.com/Sriya999?theme=dark" alt="LeetCode Progress"/>
-</div>
-
----
 
 ## 📈 Contribution Graph
 
