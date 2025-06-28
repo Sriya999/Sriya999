@@ -80,37 +80,7 @@ SR University, Warangal
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sriya999&theme=github-compact&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF" alt="GitHub Activity Graph"/>
 </div>
 
----
 
-## 🌟 Featured Projects
-
-<div align="center">
-  <a href="https://github.com/Sriya999">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sriya999&repo=repository-name&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Featured Project 1"/>
-  </a>
-  <a href="https://github.com/Sriya999">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sriya999&repo=repository-name&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Featured Project 2"/>
-  </a>
-</div>
-
-### 💼 Project Highlights
-
-**🌐 Web Development Projects**
-- Full-stack applications using modern frameworks
-- Responsive and user-friendly interfaces
-- Focus on clean code and best practices
-
-**🤖 Machine Learning Projects**
-- Data analysis and predictive modeling
-- Implementation of ML algorithms
-- Real-world problem-solving applications
-
-**💻 Programming Solutions**
-- Data structures and algorithms implementations
-- Problem-solving and competitive programming
-- Code optimization and efficiency improvements
-
----
 
 ## 🤝 Let's Connect
 
