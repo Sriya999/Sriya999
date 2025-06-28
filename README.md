@@ -82,24 +82,6 @@ SR University, Warangal
 
 ---
 
-## 🎯 Current Focus
-
-```python
-class CurrentFocus:
-    def __init__(self):
-        self.learning = ["Web Development", "Machine Learning", "Advanced DSA"]
-        self.building = ["Innovative Solutions", "Full-Stack Applications", "ML Projects"]
-        self.goals = ["Software Developer Role", "Contributing to Open Source", "Building Impactful Projects"]
-    
-    def get_motto(self):
-        return "Code with passion, learn with purpose, build with innovation"
-
-focus = CurrentFocus()
-print(focus.get_motto())
-```
-
----
-
 ## 🌟 Featured Projects
 
 <div align="center">
