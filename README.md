@@ -55,7 +55,15 @@ SR University, Warangal
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sriya999&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FFA500&currStreakLabel=58A6FF" alt="GitHub Streak Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sriya999&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FFA500&currStreakLabel=58A6FF&dates=58A6FF" alt="GitHub Streak Stats"/>
+</div>
+
+---
+
+## 📈 Detailed Streak Information
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=Sriya999&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FFA500&currStreakLabel=58A6FF&sideLabels=58A6FF&dates=58A6FF" alt="Detailed GitHub Streak"/>
 </div>
 
 ---
@@ -170,4 +178,3 @@ print(focus.get_motto())
 </div>
 
 ---
-
