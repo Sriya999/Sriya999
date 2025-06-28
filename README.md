@@ -30,7 +30,7 @@ SR University, Warangal
 
 ### Frameworks & Libraries
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,bootstrap" alt="Frameworks" />
+  <img src="https://skillicons.dev/icons?i=bootstrap" alt="Frameworks" />
 </p>
 
 ### Databases & Tools
@@ -41,7 +41,6 @@ SR University, Warangal
 ### Additional Skills
 <p align="center">
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
-  <img src="https://img.shields.io/badge/Adobe%20After%20Effects-9999FF?style=for-the-badge&logo=adobeaftereffects&logoColor=white" alt="After Effects"/>
   <img src="https://img.shields.io/badge/Cisco-049fd9?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco"/>
 </p>
 
