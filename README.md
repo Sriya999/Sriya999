@@ -1,21 +1,173 @@
-# 💫 About Me:
-<br><br> 👋 Hi, I'm Sriya Poosaala  <br>A passionate developer and coder dedicated to learning and building innovative solutions.  <br><br>🌱 I’m currently diving into Web Development, Python, Machine Learning, and Data Structures and Algorithms to sharpen my skills and contribute to impactful projects.  <br><br><br> 🌟 Connect with Me  <br>[![GitHub](https://img.shields.io/badge/GitHub-SriyaPoosaala-blue?style=flat&logo=github)](https://github.com/Sriya999)  <br>[![LinkedIn](https://img.shields.io/badge/LinkedIn-SriyaPoosaala-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/sriya-poosaala-37a6622ba/)  <br><br><br> 🛠️ Languages and Tools  <br>![AWS](https://img.shields.io/badge/AWS-orange?style=flat&logo=amazon-aws)  <br>![C](https://img.shields.io/badge/C-blue?style=flat&logo=c)  <br>![CSS3](https://img.shields.io/badge/CSS3-blue?style=flat&logo=css3)  <br>![HTML5](https://img.shields.io/badge/HTML5-orange?style=flat&logo=html5)  <br>![Java](https://img.shields.io/badge/Java-red?style=flat&logo=java)  <br>![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=flat&logo=javascript)  <br>![MongoDB](https://img.shields.io/badge/MongoDB-green?style=flat&logo=mongodb)  <br>![MySQL](https://img.shields.io/badge/MySQL-blue?style=flat&logo=mysql)  <br>![Python](https://img.shields.io/badge/Python-blue?style=flat&logo=python)  <br>
+# Hi there, I'm Sriya Poosaala 👋
 
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D8FF&center=true&vCenter=true&width=600&height=100&lines=Software+Developer;Problem+Solver;Tech+Enthusiast;ML+Enthusiast" alt="Typing SVG" />
+</div>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sriya-poosaala-37a6622ba/) 
+## 🚀 About Me
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=plastic&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=plastic&logo=adobe&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=plastic&logo=cisco&logoColor=black) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=plastic&logo=powerbi&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Sriya999&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Sriya999&theme=tokyonight&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sriya999&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+I'm a passionate **developer and coder** dedicated to learning and building innovative solutions.
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Sriya999&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
+- 🔭 Currently diving into **Web Development**, **Python**, **Machine Learning**, and **Data Structures and Algorithms** to sharpen my skills and contribute to impactful projects
+- 👯 Looking to collaborate on **Open Source Projects**
+- 💡 Always excited to take on new challenges
+
+## 🎓 Education
+
+**B.Tech – Computer Science Engineering**  
+*Oct 2022 – May 2026*  
+SR University, Warangal  
+**CGPA:** 9.4/10.0
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Sriya999&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🛠️ Tech Stack
+
+### Programming Languages
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,c,html,css,js" alt="Programming Languages" />
+</p>
+
+### Frameworks & Libraries
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,bootstrap" alt="Frameworks" />
+</p>
+
+### Databases & Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,git,github,vscode,aws" alt="Tools" />
+</p>
+
+### Additional Skills
+<p align="center">
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
+  <img src="https://img.shields.io/badge/Adobe%20After%20Effects-9999FF?style=for-the-badge&logo=adobeaftereffects&logoColor=white" alt="After Effects"/>
+  <img src="https://img.shields.io/badge/Cisco-049fd9?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco"/>
+</p>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sriya999&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sriya999&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sriya999&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FFA500&currStreakLabel=58A6FF" alt="GitHub Streak Stats"/>
+</div>
+
+---
+
+## 🏆 GitHub Achievements
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Sriya999&theme=tokyonight&no-frame=true&no-bg=false&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
+</div>
+
+---
+
+## 💻 LeetCode Statistics
+
+<div align="center">
+  <img src="https://leetcard.jacoblin.cool/Sriya999?theme=dark&font=Noto%20Sans&ext=contest" alt="LeetCode Stats"/>
+</div>
+
+<div align="center">
+  <img src="https://leetcode-stats-api.herokuapp.com/Sriya999?theme=dark" alt="LeetCode Progress"/>
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sriya999&theme=github-compact&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF" alt="GitHub Activity Graph"/>
+</div>
+
+---
+
+## 🎯 Current Focus
+
+```python
+class CurrentFocus:
+    def __init__(self):
+        self.learning = ["Web Development", "Machine Learning", "Advanced DSA"]
+        self.building = ["Innovative Solutions", "Full-Stack Applications", "ML Projects"]
+        self.goals = ["Software Developer Role", "Contributing to Open Source", "Building Impactful Projects"]
+    
+    def get_motto(self):
+        return "Code with passion, learn with purpose, build with innovation"
+
+focus = CurrentFocus()
+print(focus.get_motto())
+```
+
+---
+
+## 🌟 Featured Projects
+
+<div align="center">
+  <a href="https://github.com/Sriya999">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sriya999&repo=repository-name&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Featured Project 1"/>
+  </a>
+  <a href="https://github.com/Sriya999">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sriya999&repo=repository-name&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Featured Project 2"/>
+  </a>
+</div>
+
+### 💼 Project Highlights
+
+**🌐 Web Development Projects**
+- Full-stack applications using modern frameworks
+- Responsive and user-friendly interfaces
+- Focus on clean code and best practices
+
+**🤖 Machine Learning Projects**
+- Data analysis and predictive modeling
+- Implementation of ML algorithms
+- Real-world problem-solving applications
+
+**💻 Programming Solutions**
+- Data structures and algorithms implementations
+- Problem-solving and competitive programming
+- Code optimization and efficiency improvements
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/sriya-poosaala-37a6622ba/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://leetcode.com/u/Sriya999/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+  </a>
+  <a href="https://github.com/Sriya999">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</div>
+
+---
+
+## 📊 Profile Views & Visitors
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Sriya999&label=Profile%20Views&color=58A6FF&style=for-the-badge" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/followers/Sriya999?label=Followers&style=for-the-badge&color=58A6FF" alt="GitHub Followers"/>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Innovation%20distinguishes%20between%20a%20leader%20and%20a%20follower&author=Steve%20Jobs" alt="Quote"/>
+</div>
+
+<div align="center">
+  <i>⭐ From <a href="https://github.com/Sriya999">Sriya999</a> - Building innovative solutions, one commit at a time</i>
+</div>
+
+---
+
